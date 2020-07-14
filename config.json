@@ -1,0 +1,13 @@
+{
+	"lidars": [
+	{
+		"source": "192.168.11.18",
+		"source_name": "LidarMetro"
+	},
+		{
+		"source": "172.16.16.64",
+		"source_name": "LidarTest"
+		}
+	],
+	"loglevel": "INFO"
+}
