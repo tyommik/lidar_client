@@ -1,2 +1,2 @@
-# lidar_client
-SICK LiDAR Client
+# SICK LiDAR Client
+It's a bit-stream client for sick lidars (sick.com)
